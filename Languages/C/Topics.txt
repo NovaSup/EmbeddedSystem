@@ -1,11 +1,29 @@
+
+# Topics to cover
 1. scanf() & printf() usecase
 2. C Keywords
 3. Pre-Processor Directives
-4. Functions
-5. Pointers
+4. Functions - static, arguments, recursion
+5. Pointers - null, pointer to pointer
 6. Array
 7. Strings
 8. Structures 
 9. Interrupts
-10.Memory Allocation
+10. Memory Allocation
 11. File I/O
+
+# Commonly used libraries & functions
+1.  stdio.h -->	Standard Input/Output (e.g., printf, scanf)
+2.  stdlib.h -->	Memory allocation, conversions, exit (e.g., malloc, free, atoi)
+3.  string.h -->	String handling (e.g., strcpy, strlen, strcmp)
+4.  math.h -->	Math functions (e.g., sqrt, pow, sin)
+5.  ctype.h -->	Character type checks (e.g., isalpha, isdigit, toupper)
+6.  stdbool.h -->	Boolean support (true, false, bool keyword)
+7.  time.h -->	Time and date operations (time, clock, difftime)
+8.  limits.h -->	Constants for integer limits (INT_MAX, CHAR_MIN)
+9.  float.h -->	Constants for float/double limits (FLT_MAX)
+10. assert.h -->	Debugging, program assertions (assert(expr))
+
+# Questions
+1. Difference in Arguments & Parameters
+2. 
