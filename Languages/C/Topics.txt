@@ -1,0 +1,11 @@
+1. scanf() & printf() usecase
+2. C Keywords
+3. Pre-Processor Directives
+4. Functions
+5. Pointers
+6. Array
+7. Strings
+8. Structures 
+9. Interrupts
+10.Memory Allocation
+11. File I/O
