@@ -26,4 +26,6 @@
 
 # Questions
 1. Difference in Arguments & Parameters
-2. 
+2. Print hex value of decimal variabke using pointer
+3. Difference between call by value & call by reference
+4. what is pointer to the pointer
