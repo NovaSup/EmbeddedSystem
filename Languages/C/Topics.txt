@@ -12,6 +12,11 @@
 10. Memory Allocation
 11. File I/O
 
+# Commonly used methods
+1. Search Algorithm  - Binary, Linear, etc.
+2. Sorting Algorithm - Bubble, Selection, Insertion, Merge, Quick, etc.
+
+
 # Commonly used libraries & functions
 1.  stdio.h -->	Standard Input/Output (e.g., printf, scanf)
 2.  stdlib.h -->	Memory allocation, conversions, exit (e.g., malloc, free, atoi)
